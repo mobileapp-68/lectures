@@ -2,7 +2,7 @@
 
 ## Lecture VDO Playlist
 
-- [Mobile App 68](#)
+- [Mobile App 68](https://www.youtube.com/playlist?list=PLNGLpHQhvGrtN8GnSV_Rb3wyOjQwk-VtJ)
 
 ## Introduction
 
