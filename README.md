@@ -13,3 +13,8 @@
 
 - [Github](https://github.com/mobileapp-68/dart-basic)
 - [Dart Pad](https://dartpad.dev/)
+
+## Dart OOP & Miscellaneous
+
+- [OOP Github](https://github.com/mobileapp-68/dart-oop)
+- [HTTP Server Github](https://github.com/mobileapp-68/http-server)
