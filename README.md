@@ -31,3 +31,13 @@
 - [PDF](/src/T05_stateful_widget/T05.pdf)
 - [Github](https://github.com/mobileapp-68/flutter_basic) (Part 1)
 - [Github](https://github.com/mobileapp-68/flutter_stateful) (Part 2)
+
+## Navigation
+
+- [Github](https://github.com/mobileapp-68/navigation)
+
+## Inherited Widget
+
+- [HTML](/src/T06_inherited_widget/T06.html)
+- [PDF](/src/T06_inherited_widget/T06.pdf)
+- [Github](https://github.com/mobileapp-68/flutter_inherited)

@@ -10,3 +10,7 @@ $folder = "src\T05_stateful_widget"
 npm run html $folder
 npm run pdf $folder
 
+$folder = "src\T06_inherited_widget"
+npm run html $folder
+npm run pdf $folder
+
