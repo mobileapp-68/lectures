@@ -52,7 +52,7 @@
 
 - [Github](https://github.com/mobileapp-68/listview_example)
 
-<!-- ## Mock App Workshop
+## Mock App Workshop
 
 - [App](https://drive.google.com/drive/folders/1C2vkfTm2cPHprQYYV7W1d0A_dP8zwEF5?usp=sharing)
-- [Assets](https://github.com/mobileapp-68/lectures/tree/main/src/T08_mock_app_workshop) -->
+- [Assets](https://github.com/mobileapp-68/lectures/tree/main/src/T08_mock_app_workshop)
