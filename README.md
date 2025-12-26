@@ -54,6 +54,5 @@
 
 ## Mock App Workshop
 
-- [App](https://drive.google.com/drive/folders/1C2vkfTm2cPHprQYYV7W1d0A_dP8zwEF5?usp=sharing)
 - [Assets](https://github.com/mobileapp-68/lectures/tree/main/src/T08_mock_app_workshop)
 - [Travel App Github](https://github.com/mobileapp-68/travel_app_mock)
