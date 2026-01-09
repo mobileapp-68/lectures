@@ -56,3 +56,10 @@
 
 - [Assets](https://github.com/mobileapp-68/lectures/tree/main/src/T08_mock_app_workshop)
 - [Travel App Github](https://github.com/mobileapp-68/travel_app_mock)
+
+## Riverpod
+
+- [Synchrionous Provider (Immutable)](https://github.com/mobileapp-68/riverpod_test/blob/main/markdowns/T01_sync.md)
+- [Synchrionous Provider (Mutable)](https://github.com/mobileapp-68/riverpod_test/blob/main/markdowns/T02_sync_mutable.md)
+- [Asynchrionous Provider (Immutable)](https://github.com/mobileapp-68/riverpod_test/blob/main/markdowns/T03_async.md)
+- [Asynchrionous Provider (Mutable)](https://github.com/mobileapp-68/riverpod_test/blob/main/markdowns/T04_async_mutable.md)
