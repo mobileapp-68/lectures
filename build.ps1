@@ -18,6 +18,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "src\T09_react_native"
+# $folder = "src\T09_react_native"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "src\T10_native_app"
 npm run html $folder
 npm run pdf $folder
